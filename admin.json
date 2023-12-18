@@ -4,6 +4,15 @@
         "name": "Laica Reyes",
         "email": "laica.apple@gmail.com",
         "num": "09123456789",
+        "pass": "laica",
+        "cpass": "laica"
+    },
+
+    {
+        "empid": 20231202,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "num": "09123456789",
         "pass": "ghibli",
         "cpass": "ghibli"
     }
